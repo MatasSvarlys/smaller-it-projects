@@ -1,0 +1,1 @@
+gautas faktorialas: 40320

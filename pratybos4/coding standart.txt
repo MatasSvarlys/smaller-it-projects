@@ -1,0 +1,5 @@
+1. everything is in english
+2. variable names start with lowercase, multiple word variables have their other words
+start with uppercase
+3. if possible use short version of if and loops without {}
+4. first loop/if brackets are in the same line as loop/if statment

@@ -1,0 +1,34 @@
+QUERY1
+23
+full name: George Hudson
+full name: Robert Davison
+full name: Matt Lockwood
+...
+
+QUERY2
+856
+full name: Karl Stapleton average grade: 5.750000
+full name: Helen King average grade: 7.333333
+full name: Karl Brightman average grade: 6.500000
+...
+
+QUERY3
+809
+full name: Karl Stapleton
+full name: Helen King
+full name: Kim Quarry
+...
+
+QUERY4
+502
+full name: Helen King year of study: 3     
+full name: Kim Quarry year of study: 3     
+full name: Debora Gibson year of study: 3
+...
+
+QUERY5
+240
+full name: Helen King    
+full name: Sarah Doe     
+full name: Richard Gibbs
+...

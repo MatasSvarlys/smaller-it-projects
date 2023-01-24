@@ -1,0 +1,6 @@
+1h drop down list + create list bare bones
+3h list works forwards, gets read, but doesnt print backwards
+1h removes smallest element, prints backwards
+20min make sure to not to delete if empty list
+30min clean up with header file + makefile
+1h asserts program
